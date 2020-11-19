@@ -1,4 +1,5 @@
 <view>
+    <!-- 轮播图示例 -->
     <swiper indicator-dots="{{true}}" autoplay="{{true}}" style="width: 750rpx;">
         <swiper-item>
             <image src="https://picsum.photos/200"></image>
